@@ -1,1 +1,1 @@
-console.log('hello Git Pull)
+console.log('hello Git Pull')
